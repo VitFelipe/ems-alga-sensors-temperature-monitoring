@@ -1,0 +1,5 @@
+package com.algaworks.algasensors.temperature.monitoring.domain.model;
+
+public class SensirMonitoring {
+    private 
+}
